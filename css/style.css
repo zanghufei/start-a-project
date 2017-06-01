@@ -4,7 +4,6 @@ html,body{
 	padding: 0;
 	margin: 0;
 	font-size: 62.5%;
-	overflow: hidden;
 }
 
 /*外层包裹*/
@@ -32,7 +31,7 @@ div.top img{
 /*logo图片*/
 div.logo{
 	width: 80%;
-	height: 30%;
+	height: 20%;
 	margin: 0 auto;
 	text-align: center;
 	position: relative;
@@ -49,9 +48,9 @@ div.logo img{
 /*文本区域*/
 div.text{
 	width: 80%;
-	height: 20%;
+	height: 40%;
 	margin: 0 auto;
-	font-size: 3.4em;
+	font-size: 4em;
 	color: #fff;
 	line-height: 1.5em;
 	text-align: justify;
@@ -60,7 +59,7 @@ div.text{
 /*底部区域*/
 div.bottom{
 	width: 100%;
-	height: 40%;
+	height: 30%;
 }
 div.bottom span{
 	display: block;
@@ -72,7 +71,6 @@ div.bottom span{
 div.bottom_left{
 	width: 50%;
 	height: 80%;
-	margin-top: 10%;
 	float: left;
 	text-align: center;
 }
@@ -80,7 +78,6 @@ div.bottom_left{
 div.bottom_right{
 	width: 50%;
 	height: 80%;
-	margin-top: 10%;
 	float: right;
 	text-align: center;
 }
