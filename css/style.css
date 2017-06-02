@@ -1,4 +1,4 @@
-html, body { font-size: 62.5%; width: 100%; height: 100%; margin: 0; padding: 0; }
+html, body { font-size: 62.5%; width: 100%; height: 100%; margin: 0; padding: 0; overflow: hidden; }
 /*外层包裹*/
 div.conter { width: 100%; max-width: 1000px; height: 100%; margin: 0 auto; background: #68cdd5; }
 /*顶部导航*/
